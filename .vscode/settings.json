@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "libft.h": "c",
+        "ctype.h": "c",
+        "string.h": "c",
+        "stdio.h": "c",
+        "strings.h": "c",
+        "memmove.C": "cpp",
+        "unistd.h": "c"
+    }
+}
