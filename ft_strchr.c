@@ -6,17 +6,10 @@ char *ft_strchr(const char *s, int c)
     {
         if(c == *s)
         {
-            return s;
+            return (char *) s;
         }
         s++;
     }
 
     return NULL;
-}
-
-
-int main()
-{
-    char *test = "hhcjjj";
-   printf("%s",  ft_strchr(test,'c'));
 }
