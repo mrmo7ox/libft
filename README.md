@@ -96,7 +96,3 @@ Compile your project with the `libft.a` library:
 ```bash
 cc -o my_program my_program.c -L. -lft
 ```
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
