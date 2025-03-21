@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="100px" width="100px" src="https://mo7ox.com/wp-content/uploads/2025/03/libft.png" alt="Alt text">
+  <img height="200px" width="200px" src="https://mo7ox.com/wp-content/uploads/2025/03/libft.png" alt="Alt text">
 </div>
 
 # Libft
