@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://mo7ox.com/wp-content/uploads/2025/03/libft.png" alt="Alt text">
+</div>
+
 # Libft
 
 Libft is a custom implementation of the C standard library functions as part of the 42 School curriculum. The library includes various functions for string manipulation, memory management, and linked list operations, among others.
@@ -90,7 +94,7 @@ Include the `libft.h` header file in your project and link against the `libft.a`
 Compile your project with the `libft.a` library:
 
 ```bash
-gcc -o my_program my_program.c -L. -lft
+cc -o my_program my_program.c -L. -lft
 ```
 
 ## License
